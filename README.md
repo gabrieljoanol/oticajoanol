@@ -1,2 +1,2 @@
 # oticajoanol
-loja ficticia teste
+loja fictícia teste
